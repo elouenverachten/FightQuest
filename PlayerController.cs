@@ -6,6 +6,7 @@ using UnityEngine.UI;
 public class PlayerController : MonoBehaviour
 {
 
+    // Based on Bardent script tutorial :))
     [Header("UI")]
     public Joystick joy;
     public Text dashText;
